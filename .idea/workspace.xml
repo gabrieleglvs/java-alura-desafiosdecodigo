@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db61d922-8ecd-4ced-bd0b-3572875964d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/conversaoDeTipos/converterTipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/variaveisETipos/declararVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variaveisETipos/declararVariaveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitivoDouble/primitivoDouble.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2wYIgq95iBzYRwa1gZrrlzgrYHc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,11 +35,13 @@
   "keyToString": {
     "Application.converterTipo.executor": "Run",
     "Application.declararVariaveis.executor": "Run",
+    "Application.primitivoDouble.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Gabriele Gonçalves/Documents/alura/java/challenges/java-desafiosdecodigo-alura"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
