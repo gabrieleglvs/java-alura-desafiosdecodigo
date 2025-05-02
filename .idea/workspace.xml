@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db61d922-8ecd-4ced-bd0b-3572875964d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/conversaoDeMoedas/conversorDeMoedas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/planejarViagem/consumoCombustivel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Application.declararVariaveis.executor": "Run",
     "Application.parOuImpar.executor": "Run",
     "Application.primitivoDouble.executor": "Run",
+    "Application.verificaIdade.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
