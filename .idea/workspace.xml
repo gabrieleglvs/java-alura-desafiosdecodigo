@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db61d922-8ecd-4ced-bd0b-3572875964d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/parOuImpar/parOuImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conversaoDeMoedas/conversorDeMoedas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +37,11 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.classificacao.executor": "Run",
+    "Application.conversorDeMoedas.executor": "Run",
     "Application.converterTemperatura.executor": "Run",
     "Application.converterTipo.executor": "Run",
     "Application.declararVariaveis.executor": "Run",
+    "Application.parOuImpar.executor": "Run",
     "Application.primitivoDouble.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
