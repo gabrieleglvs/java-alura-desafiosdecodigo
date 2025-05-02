@@ -1,11 +1,11 @@
 package cadastroDeLivros;
 
-public class Main {
+public class cadastroLivro {
     public static void main(String[] args) {
         String titulo = "O Pequeno Príncipe";
         String autor = "Antoine de Saint-Exupéry";
         int numeroDePaginas = 96;
-        double preco = 39.9;
+        double preco = 39.90;
         char categoria = 'F';
 
         String categoriaDescricao;
@@ -24,6 +24,6 @@ public class Main {
 
         System.out.println("Livro cadastrado: " +titulo+ ", de "
                 +autor+ ". Ele possui " +numeroDePaginas+
-                " páginas, custa R$" +preco+ " e pertence à categoria " + categoriaDescricao);
+                " páginas, custa R$" +preco+ " e pertence à categoria " + categoriaDescricao + ".");
     }
 }
