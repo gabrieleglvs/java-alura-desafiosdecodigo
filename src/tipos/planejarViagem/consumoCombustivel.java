@@ -1,4 +1,4 @@
-package planejarViagem;
+package tipos.planejarViagem;
 
 public class consumoCombustivel {
     public static void main(String[] args) {

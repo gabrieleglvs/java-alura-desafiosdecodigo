@@ -1,4 +1,4 @@
-package variaveisETipos;
+package tipos.variaveisETipos;
 
 public class declararVariaveis {
 

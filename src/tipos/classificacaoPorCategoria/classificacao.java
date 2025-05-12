@@ -1,4 +1,4 @@
-package classificacaoPorCategoria;
+package tipos.classificacaoPorCategoria;
 
 public class classificacao {
     public static void main(String[] args) {

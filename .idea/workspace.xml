@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db61d922-8ecd-4ced-bd0b-3572875964d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/planejarViagem/consumoCombustivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastroDeLivros/cadastroLivro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos/cadastroDeLivros/cadastroLivro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classificacaoPorCategoria/classificacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos/classificacaoPorCategoria/classificacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conversaoDeMoedas/conversorDeMoedas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos/conversaoDeMoedas/conversorDeMoedas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conversaoDeTipos/converterTipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos/conversaoDeTipos/converterTipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conversaoTemperatura/converterTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos/conversaoTemperatura/converterTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parOuImpar/parOuImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos/parOuImpar/parOuImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/planejarViagem/consumoCombustivel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos/planejarViagem/consumoCombustivel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primitivoDouble/primitivoDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos/primitivoDouble/primitivoDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variaveisETipos/declararVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos/variaveisETipos/declararVariaveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/verificacaoIdade/verificaIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tipos/verificacaoIdade/verificaIdade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +46,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Principal.executor": "Run",
     "Application.classificacao.executor": "Run",
+    "Application.consumoCombustivel.executor": "Run",
     "Application.conversorDeMoedas.executor": "Run",
     "Application.converterTemperatura.executor": "Run",
     "Application.converterTipo.executor": "Run",
@@ -49,9 +61,16 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Gabriele Gonçalves/Documents/alura/java/challenges/java-desafiosdecodigo-alura"
+    "last_opened_file_path": "C:/Users/Gabriele Gonçalves/Documents/alura/devdojo"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-4caba194b151-5bc9ecd2" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

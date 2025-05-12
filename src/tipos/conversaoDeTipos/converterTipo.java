@@ -1,4 +1,4 @@
-package conversaoDeTipos;
+package tipos.conversaoDeTipos;
 
 public class converterTipo {
 

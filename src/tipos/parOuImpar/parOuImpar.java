@@ -1,4 +1,4 @@
-package parOuImpar;
+package tipos.parOuImpar;
 
 public class parOuImpar {
     public static void main(String[] args) {

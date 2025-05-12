@@ -1,4 +1,4 @@
-package cadastroDeLivros;
+package tipos.cadastroDeLivros;
 
 public class cadastroLivro {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package verificacaoIdade;
+package tipos.verificacaoIdade;
 
 public class verificaIdade {
     public static void main(String[] args) {

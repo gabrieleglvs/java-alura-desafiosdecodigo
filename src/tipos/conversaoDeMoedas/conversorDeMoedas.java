@@ -1,4 +1,4 @@
-package conversaoDeMoedas;
+package tipos.conversaoDeMoedas;
 
 public class conversorDeMoedas {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package conversaoTemperatura;
+package tipos.conversaoTemperatura;
 
 public class converterTemperatura {
     public static void main(String[] args) {

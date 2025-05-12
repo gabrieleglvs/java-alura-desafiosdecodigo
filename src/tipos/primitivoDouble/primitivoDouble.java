@@ -1,4 +1,4 @@
-package primitivoDouble;
+package tipos.primitivoDouble;
 
 public class primitivoDouble {
     public static void main(String[] args) {
